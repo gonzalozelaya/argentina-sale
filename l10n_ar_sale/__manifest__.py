@@ -17,9 +17,9 @@
         'security/invoice_sale_security.xml',
         'security/ir.model.access.csv',
         'views/sale_view.xml',
-        'views/l10n_ar_sale_templates.xml',
+        #'views/l10n_ar_sale_templates.xml',
         'views/sale_checkbook_views.xml',
-        'views/sale_report_templates.xml',
+        #'views/sale_report_templates.xml',
         'wizards/res_config_settings_view.xml',
     ],
     'demo': [
